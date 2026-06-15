@@ -68,11 +68,3 @@ Each publication folder contains a `bibtex.bib` file with the BibTeX metadata fo
 work. **Please cite each paper using its own BibTeX entry** rather than citing this index
 repository. A repository-level `CITATION.cff` is provided only for referencing this index
 itself; it is not a substitute for the per-paper BibTeX entries.
-
-## Legal and licensing note
-
-Papers, slides, datasets, and code may each be covered by **different licenses**. Before
-reusing any artifact, check the relevant publication folder and the publisher's terms.
-Publisher PDFs are not hosted here; only legally shareable versions (author accepted
-manuscripts, preprints, open-access PDFs, or links) may be added. See [LICENSE](LICENSE)
-for the current (placeholder) licensing status of this repository.
