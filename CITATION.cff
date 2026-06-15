@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: >-
+  This CITATION.cff describes how to cite THIS publication index repository.
+  To cite an individual paper, please use that paper's own BibTeX entry found in
+  publications/<paper-folder>/bibtex.bib instead.
+title: "Mamdouh Muhammad - Academic Publications Index"
+type: dataset
+authors:
+  - family-names: Muhammad
+    given-names: Mamdouh
+    # TODO: Add ORCID (e.g., orcid: "https://orcid.org/0000-0000-0000-0000")
+    affiliation: "Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU)"
+abstract: >-
+  A central index and archive of the academic publications of Mamdouh Muhammad in the
+  area of AI-based cybersecurity for smart grids, intrusion detection systems, industrial
+  control systems, Modbus/TCP security, flow-based IDS, LLM-assisted IDS, dataset bias,
+  reproducibility, and SDN security. This repository stores metadata, BibTeX, links, and
+  reproducibility notes; it does not host publisher PDFs.
+keywords:
+  - cybersecurity
+  - smart grids
+  - intrusion detection systems
+  - industrial control systems
+  - Modbus/TCP
+  - flow-based IDS
+  - LLM-assisted security
+  - dataset bias
+  - reproducibility
+  - SDN security
+license: TODO  # TODO: set the license once chosen (see LICENSE)
+repository-code: "https://github.com/MamdouhEgy/mamdouh-publications"
+date-released: "2026-06-15"

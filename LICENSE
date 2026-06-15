@@ -1,0 +1,18 @@
+LICENSE - PLACEHOLDER (license not yet chosen)
+
+TODO: Choose the appropriate license(s) for this repository.
+
+This repository aggregates different kinds of artifacts that may require DIFFERENT
+licenses:
+
+- Source code (in separate dedicated repositories) - e.g., MIT, Apache-2.0, GPL.
+- Slides and posters - may need a Creative Commons license (e.g., CC BY 4.0).
+- Papers / manuscripts - typically governed by the publisher's copyright/agreement;
+  only legally shareable versions may be distributed.
+- Text, metadata, and documentation in this index - e.g., CC BY 4.0 or CC0.
+
+Until a license is selected, no general reuse permission is granted beyond what
+applicable law allows. Check each folder and the relevant publisher terms before reuse.
+
+TODO: Replace this placeholder with the chosen license text (or a LICENSES/ directory
+covering code, documentation, and media separately).

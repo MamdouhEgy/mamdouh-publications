@@ -1,0 +1,92 @@
+# ---- OS files ----
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+# Windows "Zone.Identifier" alternate-data-stream files
+*:Zone.Identifier
+*Zone.Identifier
+
+# ---- Temporary / editor files ----
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+.idea/
+.vscode/
+
+# ---- LaTeX build files ----
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.log
+
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Notebook checkpoints ----
+.ipynb_checkpoints/
+
+# ---- Local virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Large local data files ----
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pcap
+*.pcapng
+data/
+datasets/
+
+# ---- Model checkpoints ----
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.pb
+*.safetensors
+*.bin
+checkpoints/
+models/
+
+# ---- Compressed archives ----
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.bz2
+*.7z
+*.rar
+
+# ---- PDF files (do not commit publisher or manuscript PDFs) ----
+*.pdf
