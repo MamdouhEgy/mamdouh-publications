@@ -5,7 +5,7 @@
 - **Venue:** International Conference on Computer Safety, Reliability, and Security (SAFECOMP 2025), Stockholm, Sweden; LNCS, pp. 129-142
 - **Year:** 2025
 - **Status:** Published
-- **DOI:** TODO: Add DOI
+- **DOI:** 10.1007/978-3-032-02018-5_10 (https://doi.org/10.1007/978-3-032-02018-5_10)
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
 - **Slides:** TODO: Add slides link (see [slides/](slides/))

@@ -5,7 +5,7 @@
 - **Venue:** 41st IFIP SEC International Conference on ICT Systems Security and Privacy Protection (IFIP SEC 2026), Perth, Australia
 - **Year:** 2026
 - **Status:** Published
-- **DOI:** TODO: Add DOI
+- **DOI:** 10.1007/978-3-032-27993-4_4 (https://doi.org/10.1007/978-3-032-27993-4_4)
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
 - **Slides:** TODO: Add slides link (see [slides/](slides/))

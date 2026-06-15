@@ -1,7 +1,7 @@
 # Links - TODO: Add title (Cybersecurity strategies for smart grids / IoT / IIoT)
 
 ## DOI
-TODO: Add DOI
+https://doi.org/10.4018/979-8-3693-3451-5.ch013
 
 ## Publisher page
 TODO: Add publisher page

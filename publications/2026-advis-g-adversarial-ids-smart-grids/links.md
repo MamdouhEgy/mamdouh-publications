@@ -1,7 +1,7 @@
 # Links - ADVIS-G: An Adversarially Defended Intrusion Detection System for Smart Grids Using Deep Learning
 
 ## DOI
-TODO: Add DOI
+https://doi.org/10.1007/s13218-026-00905-3
 
 ## Publisher page
 TODO: Add publisher page (KI - Kunstliche Intelligenz, Springer)

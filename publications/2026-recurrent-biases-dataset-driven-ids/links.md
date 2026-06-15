@@ -1,7 +1,7 @@
 # Links - Recurrent Biases and Fallacies in Dataset-Driven Intrusion Detection Research
 
 ## DOI
-TODO: Add DOI
+https://doi.org/10.1109/CARS67163.2025.11337551
 
 ## Publisher page
 TODO: Add publisher page

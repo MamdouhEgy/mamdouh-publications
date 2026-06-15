@@ -27,6 +27,6 @@ keywords:
   - dataset bias
   - reproducibility
   - SDN security
-license: TODO  # TODO: set the license once chosen (see LICENSE)
+license: CC-BY-4.0  # applies to this index's text/metadata; see LICENSE for the mixed-content notice
 repository-code: "https://github.com/MamdouhEgy/mamdouh-publications"
 date-released: "2026-06-15"

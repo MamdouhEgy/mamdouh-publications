@@ -1,7 +1,7 @@
 # Links - TODO: Add title (VGG-based DDoS detection in SDN)
 
 ## DOI
-TODO: Add DOI
+https://doi.org/10.23919/SoftCOM58365.2023.10271630
 
 ## Publisher page
 TODO: Add publisher page

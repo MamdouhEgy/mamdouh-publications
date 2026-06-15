@@ -5,7 +5,7 @@
 - **Venue:** 2025 9th Cyber Security in Networking Conference (CSNet 2025), Abu Dhabi, UAE
 - **Year:** 2025
 - **Status:** Published
-- **DOI:** TODO: Add DOI
+- **DOI:** 10.1109/CSNet67572.2025.11288241 (https://doi.org/10.1109/CSNet67572.2025.11288241)
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
 - **Slides:** TODO: Add slides link (see [slides/](slides/))

@@ -5,7 +5,7 @@
 - **Venue:** 2025 Cyber Awareness and Research Symposium (CARS), University of North Dakota, Grand Forks, ND, USA
 - **Year:** 2026
 - **Status:** Published
-- **DOI:** TODO: Add DOI
+- **DOI:** 10.1109/CARS67163.2025.11337551 (https://doi.org/10.1109/CARS67163.2025.11337551)
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
 - **Slides:** TODO: Add slides link (see [slides/](slides/))

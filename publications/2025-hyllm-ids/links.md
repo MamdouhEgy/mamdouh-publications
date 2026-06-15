@@ -1,7 +1,7 @@
 # Links - HyLLM-IDS: A Conceptual Hybrid LLM-Assisted Intrusion Detection Framework for Cyber-Physical Systems
 
 ## DOI
-TODO: Add DOI
+https://doi.org/10.1007/978-3-032-02018-5_10
 
 ## Publisher page
 TODO: Add publisher page

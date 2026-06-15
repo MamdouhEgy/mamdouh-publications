@@ -1,7 +1,7 @@
 # Links - Parameter-Efficient LLMs for Flow-Based Intrusion Detection
 
 ## DOI
-TODO: Add DOI
+https://doi.org/10.1007/978-3-032-27993-4_4
 
 ## Publisher page
 TODO: Add publisher page

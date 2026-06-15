@@ -1,7 +1,7 @@
 # Links - AI-Based Anomaly Detection for Enhanced Cybersecurity in IoT Networks
 
 ## DOI
-TODO: Add DOI
+https://doi.org/10.1109/CSNet67572.2025.11288241
 
 ## Publisher page
 TODO: Add publisher page

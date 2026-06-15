@@ -5,7 +5,7 @@
 - **Venue:** 31st International Conference on Software, Telecommunications and Computer Networks (SoftCOM 2023), Split, Croatia
 - **Year:** 2023
 - **Status:** Published
-- **DOI:** TODO: Add DOI
+- **DOI:** 10.23919/SoftCOM58365.2023.10271630 (https://doi.org/10.23919/SoftCOM58365.2023.10271630)
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
 - **Slides:** TODO: Add slides link (see [slides/](slides/))
@@ -14,15 +14,15 @@
 
 ## Abstract
 
-TODO: Add abstract. No source PDF was found in the repository for this publication; manual verification and entry required.
+Software-Defined Networks (SDN) is a technology that separates the data plane from the control plane, garnering significant interest from researchers in universities and companies. SDN enables network engineers to conveniently monitor and troubleshoot the entire network architecture from a centralized point. Distributed Denial of Service (DDoS) attacks are prevalent cyber threats wherein a multitude of attack sources, known as botnets, are utilized to launch massive amounts of data against specific systems, disrupting their availability. Deep learning techniques are commonly employed in image categorization, enhancement, and colorization. This paper proposes a deep learning-based approach for identifying DDoS attacks in SDN. In the proposed model, transfer learning is utilized to accurately detect attacks after converting them into images. The evaluations show the validity of using the proposed model to achieve better evaluation metrics compared to other state-of-the-art approaches.
 
 ## Keywords
 
-TODO: Add keywords (e.g., DDoS; SDN; VGG; deep learning)
+Software Defined Networking; Denial-of-service attack; Deep Learning; Transfer learning; Feature extraction; Intrusion detection
 
 ## Main contribution
 
-TODO: Add main contribution.
+A deep-learning IDS for DDoS detection in SDN that converts network traffic into images and applies transfer learning with a VGG-based CNN architecture, achieving better detection metrics than state-of-the-art approaches.
 
 ## Reproducibility status
 
