@@ -22,13 +22,16 @@ TODO: Add slides link
 TODO: Add poster link
 
 ## Website page
-TODO: Add project/personal website page
+https://www.cs7.tf.fau.de/person/muhammad/
 
 ## Google Scholar
-TODO: Add Google Scholar profile/paper link
+https://scholar.google.de/citations?user=tNPA3rQAAAAJ
+
+## ResearchGate
+https://www.researchgate.net/profile/Mamdouh-Muhammad
 
 ## Semantic Scholar
 TODO: Add Semantic Scholar link
 
 ## ORCID
-TODO: Add ORCID (https://orcid.org/)
+https://orcid.org/0009-0009-9685-8880

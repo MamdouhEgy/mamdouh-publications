@@ -2,6 +2,12 @@
 
 Mamdouh Muhammad, PhD researcher in AI-based cybersecurity for smart grids.
 
+**Profile & links:**
+[Website (FAU CS7)](https://www.cs7.tf.fau.de/person/muhammad/) ·
+[Google Scholar](https://scholar.google.de/citations?user=tNPA3rQAAAAJ) ·
+[ORCID](https://orcid.org/0009-0009-9685-8880) ·
+[ResearchGate](https://www.researchgate.net/profile/Mamdouh-Muhammad)
+
 This repository is the central academic publication index and archive. It organizes
 publication metadata, BibTeX entries, links, slides, posters, figures, and
 reproducibility notes, and points to separate dedicated repositories that hold

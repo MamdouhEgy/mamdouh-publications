@@ -8,7 +8,7 @@ type: dataset
 authors:
   - family-names: Muhammad
     given-names: Mamdouh
-    # TODO: Add ORCID (e.g., orcid: "https://orcid.org/0000-0000-0000-0000")
+    orcid: "https://orcid.org/0009-0009-9685-8880"
     affiliation: "Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU)"
 abstract: >-
   A central index and archive of the academic publications of Mamdouh Muhammad in the
