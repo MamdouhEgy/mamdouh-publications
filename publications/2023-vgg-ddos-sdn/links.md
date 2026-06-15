@@ -10,7 +10,7 @@ TODO: Add publisher page
 TODO: Add preprint link (e.g., arXiv, institutional repository)
 
 ## Code repository
-TODO: Add code repository URL
+https://github.com/MamdouhEgy/MasterThesis
 
 ## Dataset
 TODO: Add dataset link

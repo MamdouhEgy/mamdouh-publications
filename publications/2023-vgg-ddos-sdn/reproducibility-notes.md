@@ -1,7 +1,7 @@
-# Reproducibility Notes - TODO: Add title (VGG-based DDoS detection in SDN)
+# Reproducibility Notes - An IDS for DDoS Attacks in SDN using VGG-Based CNN Architecture
 
 ## Code availability
-TODO: State whether code is available and where (link to the dedicated code repository).
+Code is available at https://github.com/MamdouhEgy/MasterThesis (master's thesis repository).
 
 ## Dataset availability
 TODO: State which dataset(s) were used and how to obtain them (include license/access terms).
