@@ -1,9 +1,9 @@
-# An IDS for DDoS Attacks in SDN using VGG-Based CNN Architecture
+# ADVIS-G: An Adversarially Defended Intrusion Detection System for Smart Grids Using Deep Learning
 
-- **Authors:** Mamdouh Muhammad, Abdullah S. Alshra'a, Reinhard German
+- **Authors:** Ramkrishna Acharya, Loui Al Sardy, Mamdouh Muhammad, Reinhard German
 - **Affiliation:** Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany
-- **Venue:** 31st International Conference on Software, Telecommunications and Computer Networks (SoftCOM 2023), Split, Croatia
-- **Year:** 2023
+- **Venue:** KI - Kunstliche Intelligenz (journal)
+- **Year:** 2026
 - **Status:** Published
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
@@ -14,15 +14,16 @@
 
 ## Abstract
 
-TODO: Add abstract. No source PDF was found in the repository for this publication; manual verification and entry required.
+TODO: Add abstract. No source PDF was available in the repository for this publication;
+metadata was taken from the author's list of publications. Manual verification required.
 
 ## Keywords
 
-TODO: Add keywords (e.g., DDoS; SDN; VGG; deep learning)
+TODO: Add keywords (e.g., adversarial machine learning; intrusion detection; smart grids; deep learning)
 
 ## Main contribution
 
-TODO: Add main contribution.
+TODO: Add main contribution (adversarially defended deep-learning IDS for smart grids).
 
 ## Reproducibility status
 
@@ -30,7 +31,7 @@ See [reproducibility-notes.md](reproducibility-notes.md). TODO: Confirm code and
 
 ## Citation
 
-Cite this work using the BibTeX entry in [bibtex.bib](bibtex.bib) (key: `muhammad2023vggddossdn`).
+Cite this work using the BibTeX entry in [bibtex.bib](bibtex.bib) (key: `acharya2026advisg`).
 TODO: Complete any missing citation fields once the publication details are confirmed.
 
 ## Related links

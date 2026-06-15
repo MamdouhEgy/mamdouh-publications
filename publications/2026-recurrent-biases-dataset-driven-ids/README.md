@@ -2,9 +2,9 @@
 
 - **Authors:** Mamdouh Muhammad
 - **Affiliation:** Computer Networks and Communication Systems (Informatik 7), Friedrich-Alexander-Universitat Erlangen-Nurnberg, Germany
-- **Venue:** TODO: Add venue
+- **Venue:** 2025 Cyber Awareness and Research Symposium (CARS), University of North Dakota, Grand Forks, ND, USA
 - **Year:** 2026
-- **Status:** TODO: Confirm publication status (under review / accepted / preprint)
+- **Status:** Published
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)

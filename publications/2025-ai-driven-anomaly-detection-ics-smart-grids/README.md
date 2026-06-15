@@ -2,9 +2,9 @@
 
 - **Authors:** Mamdouh Muhammad, Kanwardeep Singh, Reinhard German
 - **Affiliation:** Computer Networks and Communication Systems, Friedrich-Alexander-Universitat Erlangen-Nurnberg, Erlangen, Germany
-- **Venue:** IFIP, 2025 (ISBN 978-3-903176-72-0; TODO: confirm exact IFIP conference name and pages)
+- **Venue:** 2025 IFIP Networking Conference (IFIP Networking), Limassol, Cyprus (ISBN 978-3-903176-72-0)
 - **Year:** 2025
-- **Status:** Published (TODO: confirm full citation details)
+- **Status:** Published
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)

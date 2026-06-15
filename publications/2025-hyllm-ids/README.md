@@ -2,9 +2,9 @@
 
 - **Authors:** Mamdouh Muhammad, Abdelkader Magdy Shaaban, Reinhard German, Loui Al Sardy
 - **Affiliation:** Computer Networks and Communication Systems, Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany; Center for Digital Safety & Security, Austrian Institute of Technology (AIT), Vienna, Austria
-- **Venue:** TODO: Add venue (manuscript prepared in Springer LNCS format; verify conference/workshop)
+- **Venue:** International Conference on Computer Safety, Reliability, and Security (SAFECOMP 2025), Stockholm, Sweden; LNCS, pp. 129-142
 - **Year:** 2025
-- **Status:** TODO: Confirm publication status (conceptual work-in-progress framework)
+- **Status:** Published
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)

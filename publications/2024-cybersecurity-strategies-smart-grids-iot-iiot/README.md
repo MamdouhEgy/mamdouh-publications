@@ -1,10 +1,10 @@
-# TODO: Add title (Cybersecurity strategies for smart grids / IoT / IIoT)
+# Cybersecurity Strategies for Smart Grids: Leveraging Agile IoT and IIoT Integration
 
-- **Authors:** TODO: Add authors (expected lead author: Mamdouh Muhammad)
-- **Affiliation:** TODO: Add affiliation
-- **Venue:** TODO: Add venue
+- **Authors:** Abdullah S. Alshra'a, Mamdouh Muhammad, Reinhard German
+- **Affiliation:** Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany
+- **Venue:** Smart and Agile Cybersecurity for IoT and IIoT Environments (book chapter), IGI Global
 - **Year:** 2024
-- **Status:** TODO: Add publication status (no source PDF found in repository - manual entry required)
+- **Status:** Published
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)

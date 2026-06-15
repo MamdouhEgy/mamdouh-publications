@@ -2,9 +2,9 @@
 
 - **Authors:** Mamdouh Muhammad, Anton Wunsch, Loui Al Sardy
 - **Affiliation:** Computer Networks and Communication Systems, Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany
-- **Venue:** TODO: Add venue (manuscript prepared in Springer LNCS format; verify conference/journal)
+- **Venue:** 41st IFIP SEC International Conference on ICT Systems Security and Privacy Protection (IFIP SEC 2026), Perth, Australia
 - **Year:** 2026
-- **Status:** TODO: Confirm publication status (under review / accepted / preprint)
+- **Status:** Published
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)

@@ -2,9 +2,9 @@
 
 - **Authors:** Mamdouh Muhammad, Sushmetha Arumugam, Loui Al Sardy
 - **Affiliation:** Computer Networks and Communication Systems (Informatik 7), Department of Computer Science, Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany
-- **Venue:** CSNet 2025 - Cyber Security in Networking Conference, Abu Dhabi (TODO: confirm exact venue/edition; inferred from manuscript metadata)
+- **Venue:** 2025 9th Cyber Security in Networking Conference (CSNet 2025), Abu Dhabi, UAE
 - **Year:** 2025
-- **Status:** TODO: Confirm publication status (prepared for CSNet 2025, Abu Dhabi, Oct 2025)
+- **Status:** Published
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)

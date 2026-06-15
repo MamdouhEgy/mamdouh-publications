@@ -1,10 +1,10 @@
 # Virtualized Real-Time Flow-based IDPS for Modbus/TCP Traffic
 
-- **Authors:** TODO: Confirm authors (the manuscript PDF is anonymized as "No Author Given" for double-blind review; expected lead author: Mamdouh Muhammad)
-- **Affiliation:** TODO: Add affiliation (anonymized in the reviewed manuscript)
-- **Venue:** TODO: Add venue
+- **Authors:** Mamdouh Muhammad, Debanjali Banerjee, Loui Al Sardy
+- **Affiliation:** Computer Networks and Communication Systems, Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany
+- **Venue:** International Conference on Cybertechnology and Future Networks (ICCFN), Smart Village, Cairo, Egypt
 - **Year:** 2025
-- **Status:** Under review (TODO: confirm) - manuscript PDF is anonymized for double-blind review
+- **Status:** Accepted (not yet published)
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
