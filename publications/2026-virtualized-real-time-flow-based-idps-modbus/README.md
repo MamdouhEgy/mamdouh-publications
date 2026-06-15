@@ -3,13 +3,11 @@
 - **Authors:** Mamdouh Muhammad, Debanjali Banerjee, Loui Al Sardy
 - **Affiliation:** Computer Networks and Communication Systems, Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany
 - **Venue:** International Conference on Cybertechnology and Future Networks (ICCFN), Smart Village, Cairo, Egypt
-- **Year:** 2025
+- **Year:** 2026
 - **Status:** Accepted (not yet published)
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
-- **Slides:** TODO: Add slides link (see [slides/](slides/))
-- **Poster:** TODO: Add poster link (see [poster/](poster/))
 - **Dataset:** TODO: Add dataset link (see [links.md](links.md))
 
 ## Abstract
@@ -35,5 +33,5 @@ TODO: Complete any missing citation fields once the publication details are conf
 
 ## Related links
 
-See [links.md](links.md) for DOI, publisher page, preprint, code, dataset, slides, poster,
+See [links.md](links.md) for DOI, publisher page, preprint, code, dataset,
 and profile links.

@@ -15,8 +15,6 @@ describe how to keep it consistent when adding or updating entries.
    - `links.md`
    - `reproducibility-notes.md`
    - `paper/README.md`
-   - `slides/README.md`
-   - `poster/README.md`
    - `figures/README.md`
 
 ## Fill metadata
@@ -47,4 +45,4 @@ describe how to keep it consistent when adding or updating entries.
 
 - After adding or changing a publication, update the table in the root `README.md`.
 - Keep the table sorted **newest to oldest**.
-- Ensure the new row links to the publication folder, links, code, slides, and BibTeX.
+- Ensure the new row links to the publication folder, links, code, and BibTeX.

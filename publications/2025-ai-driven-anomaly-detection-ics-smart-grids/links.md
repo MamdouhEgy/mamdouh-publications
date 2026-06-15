@@ -15,12 +15,6 @@ TODO: Add code repository URL
 ## Dataset
 TODO: Add dataset link
 
-## Slides
-TODO: Add slides link
-
-## Poster
-TODO: Add poster link
-
 ## Website page
 https://www.cs7.tf.fau.de/person/muhammad/
 

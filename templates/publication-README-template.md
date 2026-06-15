@@ -8,8 +8,6 @@
 - **DOI:** TODO: Add DOI
 - **Paper link:** TODO: Add paper link
 - **Code repository:** TODO: Add code repository URL
-- **Slides:** TODO: Add slides link
-- **Poster:** TODO: Add poster link
 - **Dataset:** TODO: Add dataset link
 
 ## Abstract
@@ -34,4 +32,4 @@ Cite this work using the BibTeX entry in bibtex.bib (key: TODO: add key).
 
 ## Related links
 
-See links.md for DOI, publisher page, preprint, code, dataset, slides, poster, profiles.
+See links.md for DOI, publisher page, preprint, code, dataset, profiles.

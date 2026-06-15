@@ -8,8 +8,6 @@
 - **DOI:** 10.1016/j.procs.2024.08.049 (https://doi.org/10.1016/j.procs.2024.08.049)
 - **Paper link:** TODO: Add paper link (see [links.md](links.md))
 - **Code repository:** TODO: Add code repository URL (substantial code lives in a separate dedicated repository)
-- **Slides:** TODO: Add slides link (see [slides/](slides/))
-- **Poster:** TODO: Add poster link (see [poster/](poster/))
 - **Dataset:** TODO: Add dataset link (see [links.md](links.md))
 
 ## Abstract
@@ -35,5 +33,5 @@ TODO: Complete any missing citation fields once the publication details are conf
 
 ## Related links
 
-See [links.md](links.md) for DOI, publisher page, preprint, code, dataset, slides, poster,
+See [links.md](links.md) for DOI, publisher page, preprint, code, dataset,
 and profile links.
